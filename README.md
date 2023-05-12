@@ -23,7 +23,7 @@ AAHA Cat Age Category: https://www.aaha.org/aaha-guidelines/life-stage-feline-20
 Adopt Animal Picture in README.md: https://www.facebook.com/groups/Petrehominglostorfoundandservices/
 
 <b>Available Format: </b>
-* Html (github will show all html as code, this link will show the view of the final project: https://longwang74.github.io/CMSC320-Final-Project/Animal%20Adoption%20Trend%20in%20Texas.html)
+* Html (github will show all html as code, this link will show the view of the final project: (https://longwang74.github.io/Animal%20Adoption%20Trend%20in%20Texas.html))
 * ipynb
 
 <b>Distribution: </b>
